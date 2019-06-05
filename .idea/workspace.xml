@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ebeea6-1be7-48f9-a64c-7e50ce23abc0" name="Default" comment="" />
+    <list default="true" id="78ebeea6-1be7-48f9-a64c-7e50ce23abc0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/User.java" afterPath="$PROJECT_DIR$/src/main/java/entities/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java" afterPath="$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,27 +42,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BodyTestWithSimpleMap.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BodyTestWithSimpleMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
+            <state relative-caret-position="240">
+              <caret line="60" column="47" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1384#1385#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1445#1446#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/entities/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,6 +141,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -152,8 +160,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ResourceUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/ResponseHeaders.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/entities/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java" />
       </list>
     </option>
   </component>
@@ -162,6 +170,7 @@
     <option name="width" value="1440" />
     <option name="height" value="796" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -252,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BodyTestWithSimpleMap.returnCorrectLogin">
+  <component name="RunManager" selected="TestNG.BodyTestWithSimpleMap.returnCorrectId">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -300,6 +309,33 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="BodyTestWithSimpleMap.returnCorrectId" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebApiAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BodyTestWithSimpleMap" />
+      <option name="METHOD_NAME" value="returnCorrectId" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="BodyTestWithSimpleMap.returnCorrectLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -382,33 +418,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ResponseHeaders.serverIsGitHub" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebApiAutomation" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ResponseHeaders" />
-      <option name="METHOD_NAME" value="serverIsGitHub" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="ResponseHeaders.xRateLimitIsSixty" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebApiAutomation" />
@@ -470,19 +479,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.serverIsGitHub" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.xRateLimitIsSixty" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.eTagIsPresent" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.Get200.rateLimitReturns200" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectLogin" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.xRateLimitIsSixty" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.eTagIsPresent" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.Get200.rateLimitReturns200" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectLogin" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectId" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectLogin" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.Get200.rateLimitReturns200" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.eTagIsPresent" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.xRateLimitIsSixty" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.serverIsGitHub" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectId" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectLogin" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Get200.rateLimitReturns200" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.eTagIsPresent" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.ResponseHeaders.xRateLimitIsSixty" />
       </list>
     </recent_temporary>
   </component>
@@ -508,8 +517,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BodyTestWithSimpleMap_returnCorrectLogin - 2019.06.05 at 14h 18m 09s.xml">
-      <configuration name="BodyTestWithSimpleMap.returnCorrectLogin" configurationId="TestNG" />
+    <history-entry file="BodyTestWithSimpleMap_returnCorrectId - 2019.06.05 at 17h 17m 51s.xml">
+      <configuration name="BodyTestWithSimpleMap.returnCorrectId" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BodyTestWithSimpleMap_returnCorrectId - 2019.06.05 at 17h 19m 35s.xml">
+      <configuration name="BodyTestWithSimpleMap.returnCorrectId" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BodyTestWithSimpleMap_returnCorrectId - 2019.06.05 at 17h 19m 52s.xml">
+      <configuration name="BodyTestWithSimpleMap.returnCorrectId" configurationId="TestNG" />
     </history-entry>
     <history-entry file="BodyTestWithSimpleMap_returnCorrectLogin - 2019.06.05 at 14h 59m 13s.xml">
       <configuration name="BodyTestWithSimpleMap.returnCorrectLogin" configurationId="TestNG" />
@@ -532,16 +547,9 @@
     <history-entry file="Get200_rateLimitReturns200 - 2019.06.05 at 15h 19m 25s.xml">
       <configuration name="Get200.rateLimitReturns200" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ResponseHeaders_eTagIsPresent - 2019.06.05 at 13h 45m 44s.xml">
-      <configuration name="ResponseHeaders.eTagIsPresent" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ResponseHeaders_xRateLimitIsSixty - 2019.06.05 at 13h 33m 02s.xml">
-      <configuration name="ResponseHeaders.xRateLimitIsSixty" configurationId="TestNG" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="796" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -552,8 +560,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -716,25 +724,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entities/User.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="60" column="47" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
